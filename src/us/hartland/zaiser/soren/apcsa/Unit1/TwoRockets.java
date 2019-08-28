@@ -1,5 +1,10 @@
 package us.hartland.zaiser.soren.apcsa.Unit1;
 
+/**
+ * Soren Zaiser
+ * Chapter 1 Exercise 11
+ */
+
 public class TwoRockets {
     public static void main(String[] args) {
         buildTriangle();

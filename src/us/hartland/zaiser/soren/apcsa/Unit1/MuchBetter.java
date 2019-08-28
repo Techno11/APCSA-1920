@@ -1,5 +1,10 @@
 package us.hartland.zaiser.soren.apcsa.Unit1;
 
+/**
+ * Soren Zaiser
+ * Chapter 1 Exercise 5
+ */
+
 public class MuchBetter {
     public static void main(String[] args) {
         System.out.println(

@@ -1,5 +1,10 @@
 package us.hartland.zaiser.soren.apcsa.Unit1;
 
+/**
+ * Soren Zaiser
+ * Chapter 1 Exercise 14
+ */
+
 public class Lanterns {
 
     public static void main(String[] args) {

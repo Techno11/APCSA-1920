@@ -1,5 +1,9 @@
 package us.hartland.zaiser.soren.apcsa.Unit1;
 
+/**
+ * Soren Zaiser
+ * In-class example
+ */
 
 public class Pokeball {
 
